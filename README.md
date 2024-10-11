@@ -1,4 +1,4 @@
-## User-Contributed Colab Notebook Examples Using TCR_ML
+## Colab Notebook For LASSO and N-gram Feature Selection
 
 ### 1. Feature Selection using LASSO TCR-peptide Interaction
 
@@ -7,7 +7,8 @@ This notebook illustrates the feature selection using LASSO and N-gram language 
 
 
 ### 1. RACER-m
-    The RACER model is an adaptation of [RACER](https://github.com/XingchengLin/RACER), which is an implementation design for the TCR recognition.
+
+The RACER model is an adaptation of [RACER](https://github.com/XingchengLin/RACER), which is an implementation design for the TCR recognition.
 
 
 
