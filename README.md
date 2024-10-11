@@ -8,13 +8,13 @@ This notebook illustrates the feature selection using LASSO and N-gram language 
 
 ### 1. RACER-m
 
-The RACER model is an adaptation of [RACER](https://github.com/XingchengLin/RACER), which is an implementation design for the TCR recognition.
+The RACER model is an adaptation of [RACER](https://github.com/XingchengLin/RACER), [RACER-m](https://github.com/ellenfidele/RACER-multi_template), which is an implementation design for the TCR recognition.
 
 
 
 ## Data Availability
 
- The datasets analyzed for this study can be found in the RACER github repository [RACER](https://github.com/XingchengLin/RACER/tree/main/raw_data), [RACER-m](https://github.com/ellenfidele/RACER-multi_template). The dataset from (Birnbaum et al Cell 2014) used for our analysis.
+ The datasets analyzed for this study can be found in the RACER github repository [RACER](https://github.com/XingchengLin/RACER/tree/main/raw_data). The dataset from (Birnbaum et al Cell 2014) used for our analysis.
 
 
 
