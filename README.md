@@ -2,7 +2,7 @@
 
 ### 1. Feature Selection using LASSO TCR-peptide Interaction
 
-[![open in colab](). This notebook illustrates the feature selection using LASSO and N-gram language model. 
+This notebook illustrates the feature selection using LASSO and N-gram language model. 
 
 
 
